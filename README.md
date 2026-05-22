@@ -7,7 +7,7 @@
 <div align="center">
 
 <!-- ══ ANIMATED HEADER ══════════════════════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=ZIFFI-TECH&fontSize=56&fontColor=FFD700&fontAlignY=42&desc=BSc%20Data%20Science%20%26%20AI%20%7C%20University%20of%20East%20London&descAlignY=62&descSize=17&descFontColor=CCCCCC&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=f5a623,e5c76b,FFD700&height=200&section=header&text=ZIFFI-TECH&fontSize=56&fontColor=000000&fontAlignY=42&desc=BSc%20Data%20Science%20%26%20AI%20%7C%20University%20of%20East%20London&descAlignY=62&descSize=17&descFontColor=111111" width="100%" />
 
 <!-- ══ TYPING ANIMATION ══════════════════════════════════════════ -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=21&duration=2600&pause=900&color=FFD700&background=00000000&center=true&vCenter=true&width=800&lines=Data+Science+%26+AI+Student+%40+UEL;Business+Analyst+%7C+Data+Analyst+%7C+Quant+Research;Python+%7C+SQL+%7C+Java+%7C+TypeScript+%7C+React;Seeking+Placement+Year+%26+Summer+Internship+2026;Building+AI+Systems+That+Solve+Real+Problems;Status%3A+Available+%E2%80%94+Hire+Me+Now+%5BACTIVE%5D" alt="Typing SVG" />
@@ -16,7 +16,7 @@
 
 <!-- ══ STATUS BADGES ════════════════════════════════════════════ -->
 [![GitHub](https://img.shields.io/badge/GitHub-Ziffi--Tech-FFD700?style=flat-square&logo=github&logoColor=000000&labelColor=111111)](https://github.com/Ziffi-Tech)
-[![University](https://img.shields.io/badge/UEL-Data_Science_%26_AI-FFD700?style=flat-square&logo=graduation-cap&logoColor=000000&labelColor=111111)](https://github.com/Ziffi-Tech)
+[![University](https://img.shields.io/badge/UEL-Data_Science_%26_AI-FFD700?style=flat-square&logo=bookstack&logoColor=000000&labelColor=111111)](https://github.com/Ziffi-Tech)
 [![Status](https://img.shields.io/badge/Status-OPEN_TO_PLACEMENT_%2F_INTERNSHIP-00CC66?style=flat-square&labelColor=111111)](https://github.com/Ziffi-Tech)
 [![Email](https://img.shields.io/badge/Email-bedennodi%40gmail.com-FFD700?style=flat-square&logo=gmail&logoColor=000000&labelColor=111111)](mailto:bedennodi@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=Ziffi-Tech&label=Profile+Views&color=FFD700&style=flat-square&labelColor=111111)](https://github.com/Ziffi-Tech)
@@ -134,13 +134,19 @@ CAREER TRACK: Elite Data Science & AI Engineer
 
 **── DEPLOYED & BATTLE-TESTED ──**
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nodejs,html,css,git,github,vscode,excel&perline=12" />
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nodejs,html,css,git,github,vscode&perline=11" />
+
+<br/>
+
+<!-- Excel via badge since skillicons does not support it -->
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-FFD700?style=for-the-badge&logo=database&logoColor=000000)
 
 <br/><br/>
 
 **── CURRENTLY INSTALLING ──**
 
-<img src="https://skillicons.dev/icons?i=nextjs,postgresql,docker,aws,tensorflow,sklearn&perline=12" />
+<img src="https://skillicons.dev/icons?i=nextjs,postgres,docker,aws,tensorflow,sklearn&perline=10" />
 
 </div>
 
@@ -468,7 +474,7 @@ ADVISORY NOTES — Ziffi-Tech · May 2025
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&fontSize=14&fontColor=FFD700&text=Data%20Science%20%26%20AI%20%7C%20UEL%20%7C%20Seeking%20Placement%202026&fontAlignY=55&descSize=12" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD700&height=100&section=footer&fontSize=14&fontColor=000000&text=Data%20Science%20%26%20AI%20%7C%20UEL%20%7C%20Seeking%20Placement%202026&fontAlignY=55" width="100%" />
 
 </div>
 
